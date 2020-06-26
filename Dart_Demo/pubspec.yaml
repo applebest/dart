@@ -1,0 +1,4 @@
+name: demo
+descripation: dsfjlkjdlsjlf
+dependencies: 
+    http: ^0.12.0+2
